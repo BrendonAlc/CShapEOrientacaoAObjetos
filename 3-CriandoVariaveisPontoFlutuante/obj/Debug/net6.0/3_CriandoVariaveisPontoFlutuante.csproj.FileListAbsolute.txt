@@ -1,0 +1,15 @@
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.exe
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.pdb
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\3_CriandoVariaveisPontoFlutuante.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.pdb
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3_CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\3_CriandoVariaveisPontoFlutuante.dll

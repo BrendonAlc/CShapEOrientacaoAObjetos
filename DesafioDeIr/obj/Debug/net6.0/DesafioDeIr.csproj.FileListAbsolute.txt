@@ -1,0 +1,15 @@
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.AssemblyInfoInputs.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.AssemblyInfo.cs
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\bin\Debug\net6.0\DesafioDeIr.exe
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\bin\Debug\net6.0\DesafioDeIr.deps.json
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\bin\Debug\net6.0\DesafioDeIr.runtimeconfig.json
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\bin\Debug\net6.0\DesafioDeIr.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\bin\Debug\net6.0\DesafioDeIr.pdb
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\refint\DesafioDeIr.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.pdb
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\DesafioDeIr.genruntimeconfig.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\DesafioDeIr\obj\Debug\net6.0\ref\DesafioDeIr.dll

@@ -1,0 +1,15 @@
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\bin\Debug\net6.0\IniciandoEmCSharp.exe
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\bin\Debug\net6.0\IniciandoEmCSharp.deps.json
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\bin\Debug\net6.0\IniciandoEmCSharp.runtimeconfig.json
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\bin\Debug\net6.0\IniciandoEmCSharp.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\bin\Debug\net6.0\IniciandoEmCSharp.pdb
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.csproj.AssemblyReference.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.AssemblyInfoInputs.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.AssemblyInfo.cs
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\refint\IniciandoEmCSharp.dll
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.pdb
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\IniciandoEmCSharp.genruntimeconfig.cache
+C:\Users\brend\source\repos\IniciandoEmCSharp\IniciandoEmCSharp\obj\Debug\net6.0\ref\IniciandoEmCSharp.dll

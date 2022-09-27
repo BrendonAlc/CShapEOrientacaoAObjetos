@@ -1,0 +1,15 @@
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\bin\Debug\net6.0\5_CaracteresETextos.exe
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\bin\Debug\net6.0\5_CaracteresETextos.deps.json
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\bin\Debug\net6.0\5_CaracteresETextos.runtimeconfig.json
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\bin\Debug\net6.0\5_CaracteresETextos.dll
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\bin\Debug\net6.0\5_CaracteresETextos.pdb
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.csproj.AssemblyReference.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.AssemblyInfoInputs.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.AssemblyInfo.cs
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.dll
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\refint\5_CaracteresETextos.dll
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.pdb
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\5_CaracteresETextos.genruntimeconfig.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\5_CaracteresETextos\obj\Debug\net6.0\ref\5_CaracteresETextos.dll

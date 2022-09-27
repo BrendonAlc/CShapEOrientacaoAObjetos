@@ -1,0 +1,15 @@
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\bin\Debug\net6.0\7_Condicionais.exe
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\bin\Debug\net6.0\7_Condicionais.deps.json
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\bin\Debug\net6.0\7_Condicionais.runtimeconfig.json
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\bin\Debug\net6.0\7_Condicionais.dll
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\bin\Debug\net6.0\7_Condicionais.pdb
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.csproj.AssemblyReference.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.AssemblyInfoInputs.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.AssemblyInfo.cs
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.dll
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\refint\7_Condicionais.dll
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.pdb
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\7_Condicionais.genruntimeconfig.cache
+C:\Users\brend\Documents\Cursos\Alura\C#\7_Condicionais\obj\Debug\net6.0\ref\7_Condicionais.dll
