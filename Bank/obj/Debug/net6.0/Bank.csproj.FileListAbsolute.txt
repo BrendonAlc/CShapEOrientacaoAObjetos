@@ -1,0 +1,15 @@
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.csproj.AssemblyReference.cache
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.AssemblyInfoInputs.cache
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.AssemblyInfo.cs
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.csproj.CoreCompileInputs.cache
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/bin/Debug/net6.0/Bank
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/bin/Debug/net6.0/Bank.deps.json
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/bin/Debug/net6.0/Bank.runtimeconfig.json
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/bin/Debug/net6.0/Bank.dll
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/bin/Debug/net6.0/Bank.pdb
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.dll
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/refint/Bank.dll
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.pdb
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/Bank.genruntimeconfig.cache
+/home/balcantara/Documentos/Anotações/Brendon/Alura/CShapEOrientacaoAObjetos/Bank/obj/Debug/net6.0/ref/Bank.dll
